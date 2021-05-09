@@ -91,6 +91,7 @@ a:hover {
     width: 200px;
     height: 300px;
     font-size:15px;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.788);
   }
   .happy {
     font-size: 30px;
