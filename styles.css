@@ -99,5 +99,10 @@ a:hover {
   a {
     font-size: 50px;
   }
+  .wishes {
+    background-image: url(/20210509_132314.jpg);
+    background-size: cover;
+    background-position: center;
+  }
 }
 
