@@ -91,6 +91,7 @@ a:hover {
     grid-column: 1;
     width: 200px;
     height: 300px;
+    font-size:15px;
   }
   .happy {
     font-size: 30px;
